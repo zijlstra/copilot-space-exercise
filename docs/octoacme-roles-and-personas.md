@@ -75,6 +75,29 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+Technical Lead / Architect
+
+Responsibilities: technical direction, architecture decisions, design review, dependency management, risk identification.
+Interaction: works with Developers on implementation standards, with Product Managers on feasibility, and with Project Managers on sequencing and delivery risk.
+Release Manager / Delivery Coordinator
+
+Responsibilities: deployment readiness, release planning, stakeholder communication, rollback coordination.
+Interaction: partners with Project Managers on timing and with Developers and QA on pre-release checks.
+Security Reviewer
+
+Responsibilities: security review, compliance checks, vulnerability triage, secure coding guidance.
+Interaction: supports Developers during design and implementation, escalates risks to Product/Project leads when needed.
+Customer Success / Stakeholder Liaison
+
+Responsibilities: gather feedback, translate customer needs into delivery priorities, support adoption and communications.
+Interaction: works with Product Managers on roadmap insights and with Project Managers on stakeholder updates.
+Data / Analytics Lead
+
+Responsibilities: define metrics, validate impact, monitor adoption and quality signals, support decision-making.
+Interaction: partners with Product Managers on success metrics and with Developers/QA on instrumentation.
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
